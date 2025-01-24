@@ -7,6 +7,7 @@ let msg = document.querySelector("#msg");
 let newgame = document.querySelector("#new-btn");
 console.log(newgame);
 
+
 let msgContainer = document.querySelector(".msg-container");
 // Possible pposition where win
 
